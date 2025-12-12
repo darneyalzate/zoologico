@@ -1,3 +1,0 @@
-# If you need colored console output
-colorama==0.4.6
-termcolor==2.4.0
