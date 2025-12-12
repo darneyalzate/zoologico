@@ -1,0 +1,22 @@
+[
+    {
+        "numero_documento": "5485454",
+        "nombre": "ney",
+        "edad": "30",
+        "hora": "",
+        "dia": "lunes",
+        "guia": true,
+        "total_pagado": 35000,
+        "tipo": "general"
+    },
+    {
+        "numero_documento": "54545",
+        "nombre": "jbedhsba",
+        "edad": "30",
+        "hora": "10:00",
+        "dia": "luens",
+        "guia": false,
+        "total_pagado": 30000,
+        "tipo": "general"
+    }
+]
