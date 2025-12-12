@@ -1,11 +1,12 @@
 [
     {
-        "tipo": "general",
-        "numero": "21541",
-        "fecha": "51454",
-        "hora": "555",
-        "adulto": true,
-        "guia": false,
-        "dia": "Lunes"
+        "numero_documento": "1545",
+        "nombre": "whedj",
+        "edad": 30,
+        "hora": "11:00",
+        "dia": "martes",
+        "guia": true,
+        "total_pagado": 20000,
+        "tipo": "infantil"
     }
 ]
